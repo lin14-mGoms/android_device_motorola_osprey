@@ -1,4 +1,11 @@
-16.10.2019
+10.11.2019 - November 2019 ASB
+
+- ASB Security string 2019-11-01
+- Bromite Webview on 78.0.3904.72 (Build variants B and C)
+- Updated microG GMS core 0.2.9.x (Build variants B and C)
+
+
+16.10.2019 - October 2019 ASB
 
 - ASB Security string 2019-10-01
 - System Webview on 77.0.3865.116 (Build variant A)
