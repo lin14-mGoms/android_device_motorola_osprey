@@ -1,3 +1,11 @@
+07.02.2020 - February 2020 ASB
+
+- ASB Security string 2020-02-01
+- System Webview on 79.0.3945.136 (Build Variant A)
+- Bromite Webview on 79.0.3945.139 (Build variants B and C)
+- Updated AuroraStore 3.1.8 (Build variants B and C)
+
+
 13.01.2020 - January 2020 ASB
 
 - ASB Security string 2020-01-01
