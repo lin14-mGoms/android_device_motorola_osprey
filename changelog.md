@@ -1,3 +1,12 @@
+09.03.2020 - March 2020 ASB
+
+- ASB Security string 2020-03-05
+- System Webview on 80.0.3987.117 (Build Variant A)
+- Bromite Webview on 80.0.3987.118 (Build Variants B and C)
+- AuroraStore updated to 3.2.0 (Build Variants B and C)
+- Added Netguard app (F-Droid version) to SELinux domain allowing /proc/net (Build Variants B and C)
+
+
 07.02.2020 - February 2020 ASB
 
 - ASB Security string 2020-02-01
