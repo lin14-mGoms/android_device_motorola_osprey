@@ -1,3 +1,13 @@
+10.04.2020 - April 2020 ASB
+
+- ASB Security string 2020-04-05
+- Fix for CVE-2020-8597 (external/ppp)
+- Kernel: CVE-2019-10638 siphash 128bit for IP generation
+- System Webview on 80.0.3987.132 (Build Variant A)
+- Bromite Webview on 81.0.4044.76 (Build Variants B and C)
+- AuroraStore updated to 3.2.4 (Build Variants B and C)
+
+
 09.03.2020 - March 2020 ASB
 
 - ASB Security string 2020-03-05
