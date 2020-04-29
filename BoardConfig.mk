@@ -33,6 +33,8 @@ TARGET_HAS_LEGACY_CAMERA_HAL1 := true
 
 # Kernel
 TARGET_KERNEL_CONFIG := osprey_defconfig
+KERNEL_TOOLCHAIN := $(realpath $(TOP))/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-linux-gnueabi/bin
+KERNEL_TOOLCHAIN_PREFIX := arm-linux-gnueabi-
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 16777216     # 16384 * 1024 mmcblk0p31
