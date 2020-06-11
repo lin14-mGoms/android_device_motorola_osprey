@@ -1,3 +1,8 @@
+11.06.2020 - IMPORTANT INFORMATION
+- Due to no new platform patches for June (already backported in May), the May build can be considered having sec. string 2020-06-01 !
+- Termination notice: No further LineageOS 14.1 builds - please migrate to LineageOS 16.0 !
+
+
 07.05.2020 - May 2020 ASB
 
 - ASB Security string 2020-05-05
